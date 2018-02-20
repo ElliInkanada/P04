@@ -1,0 +1,5 @@
+* Spice netlister for gnetlist
+R2 0 2 8
+V1 1 0 0.07
+R1 2 1 1
+.END
